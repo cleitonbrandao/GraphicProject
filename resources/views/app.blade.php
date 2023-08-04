@@ -19,7 +19,7 @@
         @inertia
     </body>
 </html>
-<!-- <style>
+<style>
     .bg-dots-darker {
         background-image: linear-gradient(to bottom right, #5e8ab5, #a0b6cc ); /* Defina as cores para criar o degradê */
     }
@@ -28,4 +28,4 @@
             background-image: linear-gradient(to bottom right, #01162b, #344658 ); /* Defina as cores para criar o degradê */
         }
     }
-</style> -->
+</style>
