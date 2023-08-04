@@ -21,11 +21,11 @@
 </html>
 <style>
     .bg-dots-darker {
-        background-image: linear-gradient(to bottom right, #5e8ab5, #a0b6cc ); /* Defina as cores para criar o degradê */
+        background-color: linear-gradient(to bottom right, #5e8ab5, #a0b6cc ); /* Defina as cores para criar o degradê */
     }
     @media (prefers-color-scheme: dark) {
         .dark\:bg-dots-lighter {
-            background-image: linear-gradient(to bottom right, #01162b, #344658 ); /* Defina as cores para criar o degradê */
+            background-color: linear-gradient(to bottom right, #01162b, #344658 ); /* Defina as cores para criar o degradê */
         }
     }
 </style>
