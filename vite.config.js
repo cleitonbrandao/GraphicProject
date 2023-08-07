@@ -18,4 +18,7 @@ export default defineConfig({
             },
         }),
     ],
+    server: {
+        https: true, // Habilita o servidor para trabalhar com HTTPS
+      },
 });
